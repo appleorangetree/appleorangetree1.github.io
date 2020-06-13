@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://appleorangetree1.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jun 2020 13:02:07 +0800</lastBuildDate>
+    
+	<atom:link href="http://appleorangetree1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://appleorangetree1.github.io/post/blog/</link>
+      <pubDate>Sat, 13 Jun 2020 13:02:07 +0800</pubDate>
+      
+      <guid>http://appleorangetree1.github.io/post/blog/</guid>
+      <description>Skip to content Search or jump to…
+Pull requests Issues Marketplace Explore
+@appleorangetree hansonwang99 / hsite 4 2413 Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security 0 Insights You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request.</description>
+    </item>
+    
+  </channel>
+</rss>
